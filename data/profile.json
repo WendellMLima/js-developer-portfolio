@@ -12,24 +12,24 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/WendellMLima/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "SQL",
+        "logo": "https://raw.githubusercontent.com/WendellMLima/js-developer-portfolio/a9f68fbb7e216dbd18b8575b76c3ab58ad0fb507/data/imgs/sql.svg"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/WendellMLima/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/WendellMLima/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
